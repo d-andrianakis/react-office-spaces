@@ -7,6 +7,14 @@ import Header from './components/Header.jsx';
 function App() {
   const [count, setCount] = useState(0)
 
+
+  /***
+   * NEXT STEPS
+   * have dummy list of rental spaces
+   * Render all office spaces
+   * add interactivity with "cart"
+   * add checkout off canvas menu
+   */
   return (
     <>
       <Header />
